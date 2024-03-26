@@ -49,6 +49,7 @@ Counterfactual explanations involve minimal changes to features to examine which
 Adversarial examples aim to deceive the model by making slight changes in input data, demonstrating vulnerabilities in the model's decision-making process. For instance, 1-pixel attacks manipulate images in imperceptible ways to provoke incorrect predictions.
 
 ![Adversarial Example](https://res.cloudinary.com/practicaldev/image/fetch/s--hDIjj9cc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/610/1%2AH9zKuBbxlB6ZsvPPfIKOGw.png)
+
 ***source:https://reurl.cc/80ERbg***
 
 - **Pros**

@@ -262,6 +262,10 @@ Generate TCAV scores to measure the sensitivity of predictions to specific conce
 Evaluate the global relevance of learned CAVs.
 
 
+![tcva](https://miro.medium.com/v2/resize:fit:828/format:webp/1*bRaiBkyf1165WT9xiYu9vA.png)
+[source](https://beenkim.github.io/slides/TCAV_ICML_pdf.pdf)
+
+
 - Pros
   1. No Machine Learning Expertise Required<br>
      Users can utilize TCAV without extensive ML knowledge, making it accessible for domain experts to evaluate complex neural network models.
@@ -277,9 +281,6 @@ Evaluate the global relevance of learned CAVs.
      TCAV requires additional annotations for concept datasets, making it expensive for tasks without readily available labeled data.
   4. Limited Application in Text and Tabular Data<br>
      While popular for image data, TCAV's applicability to text and tabular data is relatively restricted.
-
-![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*bRaiBkyf1165WT9xiYu9vA.png)
-[source](https://beenkim.github.io/slides/TCAV_ICML_pdf.pdf)
 
 
 <br>

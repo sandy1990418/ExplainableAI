@@ -7,23 +7,27 @@ Explainable AI is crucial for ensuring transparency, trustworthiness, and accoun
 <br>
 
 ## Table of Contents
-1. [Local Test](#local-test)
+1. [Local Explanation](#local-explanation)
     - [NLP-Explanation](#nlp-explanation)
     - [Example-Based-Explanation](#example-based-explanation)
     - [Feature-Attribution](#feature-attribution)
     - [Attention Based](#attention-based)
 
+2. [Global Explanation](#global-explanation)
+    - [Probing-Based-Explanation](#probing-based-explanation)
+    - [Neuron-Activation-Explanation](#neuron-activation-explanation)
+    - [Concept-Based-Explanation](#concept-based-explanation)
 
 
 <br>
 
 
-## Local Test V.S. Global Test
-In explainable AI, "Local test" refers to examining the impact of different examples on the model, while "Global Test" pertains to understanding what the model has learned overall. Below, we will introduce methods focusing on both Local and Global perspectives:
+## Local explanation V.S. Global explanation
+In explainable AI, "Local explanation" refers to examining the impact of different examples on the model, while "Global explanation" pertains to understanding what the model has learned overall. Below, we will introduce methods focusing on both Local and Global perspectives:
 
 <br>
 
-## Local-Test
+## Local-Explanation
 
 ### NLP-Explanation
 
@@ -159,12 +163,12 @@ Visualizing attention heads using bipartite graphs or heatmaps to understand the
 
 <br>
 
-## Global Explanation
+## Global-Explanation
  Understanding the encoded content of individual components (neurons, hidden layers, and larger modules) and explaining the knowledge/language properties learned by each component.
 
 <br>
 
-### Probing-Based Explanation
+### Probing-Based-Explanation
 
 #### Method 1 - Classifier-Based Probing
 Training a shallow classifier on top of pre-trained or fine-tuned language models (e.g., BERT, T5) to identify specific linguistic properties or reasoning capabilities acquired by the model.

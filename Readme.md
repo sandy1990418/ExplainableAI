@@ -226,6 +226,7 @@ OpenAI employs Neuron Activation Explanation to elucidate the workings of their 
 
 
 ![alt text](https://camo.githubusercontent.com/d25266a022e29b3b43f60b86ebaebfd2cec6d70f2927dadcf5c0022190b1f097/68747470733a2f2f6d6963726f736f66742e6769746875622e696f2f6175746f6d617465642d6578706c616e6174696f6e732f6669672e7376673f73616e6974697a653d54727565266b696c6c5f63616368653d31)
+
 [source](https://github.com/microsoft/automated-explanations?tab=readme-ov-file),[github](https://github.com/microsoft/automated-explanations?tab=readme-ov-file)
 
 <br>
